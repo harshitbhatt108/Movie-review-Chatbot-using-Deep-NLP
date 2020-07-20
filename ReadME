@@ -1,4 +1,5 @@
 This is a Chatbot developed using Deep-NLP for movie reviews using Cornell_movie_corpus DataSet, You can use any dataset and tweek the code accordingly.
 Please note Its based on Tensorflow v1.0.0 . If you use Tensorflow above that version, you'll have to change the code a Bit.
 If you have a lowerspec laptop like I do, it will take you days to train the bot, so be patient.
+It's better if you use Google Colab .
 !Keep Growing!
